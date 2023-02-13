@@ -1,4 +1,4 @@
-# DHT11Webserver.github.io
+# DHT11/DHT22Webserver.github.io
 Interface DHT11/DHT22 with ESP32 &amp; Display Values Using Web Server
 
 This project employs the ESP32 as the control device, which connects to an existing WiFi network and creates a Web Server. When a device connects to this web server, the ESP32 will read the temperature and relative humidity from the DHT11/DHT22 sensor and send it to the device’s web browser with a nice interface.
